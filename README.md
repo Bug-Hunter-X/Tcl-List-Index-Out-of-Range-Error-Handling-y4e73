@@ -1,0 +1,2 @@
+# Tcl List Index Out of Range Error Handling
+This example demonstrates a common error in Tcl: improper handling of list indices, which can lead to unexpected behavior or crashes.  The `get_element` procedure shows how to correctly check for indices that are out of the list's bounds before attempting to access them.  Failure to do so results in an error.
